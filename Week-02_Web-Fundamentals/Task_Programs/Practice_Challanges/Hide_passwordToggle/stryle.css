@@ -1,0 +1,13 @@
+input{
+    padding:10px;
+}
+label{
+    color: blue;
+
+}
+button{
+    padding:10px;
+    cursor:pointer;
+    color:cornflowerblue;
+    background-color: antiquewhite;
+}

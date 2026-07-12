@@ -1,0 +1,21 @@
+body{
+    font-family:Arial;
+}
+
+#box{
+
+    opacity:0;
+
+    transition:1s;
+
+    font-size:30px;
+
+    text-align:center;
+
+}
+
+#box.show{
+
+    opacity:1;
+
+}
