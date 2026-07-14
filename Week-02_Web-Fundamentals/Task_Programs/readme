@@ -1,0 +1,76 @@
+# Week 2 - JavaScript DOM & CSS Practice
+
+## Internship Week 2
+
+This repository contains all projects and daily challenges completed during Week 2 of my Web Development Internship.
+
+---
+
+## Topics Covered
+
+### HTML
+- Semantic HTML
+- Forms
+- Lists
+- Tables
+
+### CSS
+- Box Model
+- Flexbox
+- Grid
+- Responsive Design
+- Media Queries
+- CSS Variables
+- Transitions
+- Animations
+- Transforms
+- ::before
+- ::after
+
+### JavaScript DOM
+- Selecting Elements
+- DOM Manipulation
+- Events
+- Event Listeners
+- Creating Elements
+- Removing Elements
+- Local Storage
+- Session Storage
+
+---
+
+## Practice Projects
+
+- Dropdown Menu
+- Password Show/Hide
+- Scroll To Top Button
+- Product Dashboard
+
+---
+
+## Daily Challenges
+
+✅ Sort List
+
+✅ Debounce Search
+
+✅ Flatten Grouped Data
+
+✅ Pagination
+
+✅ Combine Two Lists
+
+✅ Cache Data
+
+---
+
+## Skills Learned
+
+- DOM Manipulation
+- Responsive CSS
+- Dynamic UI
+- Search
+- Sorting
+- Pagination
+- Caching
+- Problem Solving
