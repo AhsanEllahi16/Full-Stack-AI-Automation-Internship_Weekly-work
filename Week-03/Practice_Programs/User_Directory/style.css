@@ -1,0 +1,60 @@
+body{
+
+    margin:0;
+    padding:30px;
+
+    font-family:Arial;
+
+    background:#f2f2f2;
+
+}
+
+.container{
+
+    width:80%;
+
+    margin:auto;
+
+}
+
+h1{
+
+    text-align:center;
+
+}
+
+button{
+
+    display:block;
+
+    margin:20px auto;
+
+    padding:12px 25px;
+
+    cursor:pointer;
+
+    font-size:18px;
+
+}
+
+#users{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+    gap:20px;
+
+}
+
+.card{
+
+    background:white;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    box-shadow:0px 0px 10px rgba(0,0,0,.2);
+
+}

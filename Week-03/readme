@@ -1,0 +1,88 @@
+# Week 3 – Advanced JavaScript & Git/GitHub
+
+## 📚 Topics Covered
+
+### Advanced JavaScript
+- Array Methods
+  - map()
+  - filter()
+  - reduce()
+- Closures
+- Lexical Scope
+- Block Scope
+- Hoisting
+- Temporal Dead Zone (TDZ)
+- IIFE (Immediately Invoked Function Expressions)
+- Callback Functions
+
+### Asynchronous JavaScript
+- Promises
+- Promise Chaining
+- Async/Await
+- try...catch
+- Error Handling
+
+### APIs
+- REST APIs
+- Fetch API
+- JSON
+- HTTP Methods
+  - GET
+  - POST
+  - PUT
+  - DELETE
+- HTTP Status Codes
+
+### Git & GitHub
+- Version Control
+- Git vs GitHub
+- Local vs Remote Repository
+- git init
+- git status
+- git add
+- git commit
+- git log
+- git clone
+- git push
+- git pull
+- Branches
+- Merge
+- Merge Conflicts
+- Pull Requests
+
+---
+
+## 🏆 Daily Challenges Completed
+
+- Custom map() implementation
+- Debounce
+- Throttle
+- Fetch with Retry
+- Group By Function
+- Deep Copy Object
+- Custom Promise.all()
+
+---
+
+## 🎯 Key Learnings
+
+- Built a solid understanding of advanced JavaScript concepts.
+- Learned asynchronous programming using Promises and async/await.
+- Worked with REST APIs using Fetch.
+- Learned professional Git and GitHub workflows.
+- Implemented interview-style JavaScript coding challenges.
+
+---
+
+## 🚀 Technologies Used
+
+- JavaScript (ES6+)
+- Fetch API
+- Git
+- GitHub
+
+---
+
+## 📅 Status
+
+✅ Week 3 Completed Successfully
